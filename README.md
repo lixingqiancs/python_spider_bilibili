@@ -11,8 +11,10 @@ python bilibiliComments.py -h
 
 python bilibiliComments.py
 
-** or **
+```
 
+** or **
+``` bash
 python bilibiliComments.py -i "the oid of your want to request" -o "your result file name"
 ```
 
